@@ -1,4 +1,5 @@
 output:
+GLOBAL COVID-19
 DATA
 {'updated': 1766502940550,'cases': 704753890,'todayCases': 0,'deaths': 7010681, 'todayDeaths': 0,'recovered': 675619811,'todayRecovered': 790,
   'active': 22123398,'critical': 34794,'casesPerOneMillion': 90413,'deathsPerOneMillion': 899.4,'tests': 7026505313,
@@ -7,4 +8,7 @@ DATA
 DATAFRAME
      Cases  	 Recovered  	Deaths	   Active
 0	 704753890	 675619811	  7010681	   22123398
+COUNTRY WISE =INDIA
+     Cases	     Recovered	 Deaths	  Active
+0	  45035393	     0	       533570	  44501823
 
