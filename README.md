@@ -1,7 +1,7 @@
 # API Integration and Data visualization 
 # COVID_API_Project usind API
 ## Developer Information
-**Name:** S Priyadharshini
+**Name:** Priyadharshini S
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CTIS0399
 **Domain:** PYTHON PROGRAMMING
