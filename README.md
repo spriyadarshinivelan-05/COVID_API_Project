@@ -3,10 +3,15 @@
 
 ## Developer Information
  **Name:** Priyadharshini S
+ 
  **Company:** CODTECH IT SOLUTIONS
+ 
  **ID:** CTIS0399
+ 
  **Domain:** PYTHON PROGRAMMING
+ 
  **Duration:** 18th Dec to 15th Jan
+ 
  **Mentor:** Neela Santhosh Kumar
 
  ---
@@ -20,29 +25,44 @@
 1.API Integration – Fetch real-time COVID-19 data using a public COVID API.
 
 2.Data Extraction – Extract confirmed cases, recovered cases, and death statistics from the API’s JSON response.
+
 3.Data Processing – Clean and convert raw data into a structured format using Python and Pandas.
+
 4.Data Analysis – Analyze daily and cumulative COVID-19 trends.
+
 5.Data Visualization – Create visual representations such as line charts and bar graphs using Matplotlib.
+
 6.Error Handling – Handle API request errors and missing or inconsistent data.
+
 7.Documentation – Document project workflow, results, and output screenshots in the README file.
 
 ---
 ## Tools Used: ##
-1.Python – Core programming language used for API integration, data processing, and analysis.
-2.Public COVID-19 API – Used to fetch real-time COVID-19 data in JSON format.
-3.Requests Library – To send HTTP requests and receive responses from the API.
-4.Pandas – For data cleaning, manipulation, and converting raw data into structured tables.
-5.Matplotlib – To create data visualizations such as line charts and bar graphs.
+-Python – Core programming language used for API integration, data processing, and analysis.
+
+-Public COVID-19 API – Used to fetch real-time COVID-19 data in JSON format.
+
+-Requests Library – To send HTTP requests and receive responses from the API.
+
+-Pandas – For data cleaning, manipulation, and converting raw data into structured tables.
+
+-Matplotlib – To create data visualizations such as line charts and bar graphs.
 
 ---
 ## Advantages: ##
-1.Uses real-time data from a public API.
-2.No API key required (free and easy access).
-3.Simple and easy to understand implementation.
-4.Provides clear insights using visual charts and graphs.
-5.Improves practical skills in API integration and data visualization.
-6.Helps understand real-world cryptocurrency market trends.
-7.Industry-relevant project (finance and data analytics domain).
+-Uses real-time data from a public API.
+
+-No API key required (free and easy access).
+
+-Simple and easy to understand implementation.
+
+-Provides clear insights using visual charts and graphs.
+
+-Improves practical skills in API integration and data visualization.
+
+-Helps understand real-world cryptocurrency market trends.
+
+-Industry-relevant project (finance and data analytics domain).
 
 ---
 ## Scope Of THe Project: ##
