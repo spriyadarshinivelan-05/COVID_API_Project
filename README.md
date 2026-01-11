@@ -14,8 +14,11 @@
 ### Task 1: API Integration and Data Visualization
 <img width="737" height="607" alt="Screenshot 2025-12-23 220141" src="https://github.com/user-attachments/assets/4ccced73-fca8-4dd6-a36c-7449ce7625b2" />
 <img width="713" height="639" alt="Screenshot 2025-12-23 221042" src="https://github.com/user-attachments/assets/b0f57e66-b3e5-4c31-9a4a-e15a2760cdcc" />
+
+---
 ## Key Activities: ##
 1.API Integration – Fetch real-time COVID-19 data using a public COVID API.
+
 2.Data Extraction – Extract confirmed cases, recovered cases, and death statistics from the API’s JSON response.
 3.Data Processing – Clean and convert raw data into a structured format using Python and Pandas.
 4.Data Analysis – Analyze daily and cumulative COVID-19 trends.
