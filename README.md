@@ -67,10 +67,15 @@
 ---
 ## Scope Of THe Project: ##
 1.Fetches real-time cryptocurrency price data using a public API.
+
 2.Focuses on analyzing and visualizing price trends over a selected time period.
+
 3.Provides graphical representation of market movements using charts.
+
 4.Helps users understand cryptocurrency price fluctuations easily.
+
 5.Designed as a beginner-friendly project for learning API integration.
+
 6.Can be used as a base for advanced financial data analysis projects.
 
 ---
