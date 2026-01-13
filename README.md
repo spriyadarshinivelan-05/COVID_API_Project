@@ -21,7 +21,7 @@
 <img width="713" height="639" alt="Screenshot 2025-12-23 221042" src="https://github.com/user-attachments/assets/b0f57e66-b3e5-4c31-9a4a-e15a2760cdcc" />
 
 ---
-## Key Activities: ##
+## Key Activities: 
 1.API Integration – Fetch real-time COVID-19 data using a public COVID API.
 
 2.Data Extraction – Extract confirmed cases, recovered cases, and death statistics from the API’s JSON response.
@@ -37,7 +37,7 @@
 7.Documentation – Document project workflow, results, and output screenshots in the README file.
 
 ---
-## Tools Used: ##
+## Tools Used: 
 -Python – Core programming language used for API integration, data processing, and analysis.
 
 -Public COVID-19 API – Used to fetch real-time COVID-19 data in JSON format.
@@ -49,7 +49,7 @@
 -Matplotlib – To create data visualizations such as line charts and bar graphs.
 
 ---
-## Advantages: ##
+## Advantages: 
 -Uses real-time data from a public API.
 
 -No API key required (free and easy access).
@@ -65,7 +65,7 @@
 -Industry-relevant project (finance and data analytics domain).
 
 ---
-## Scope Of THe Project: ##
+## Scope Of THe Project: 
 1.Fetches real-time cryptocurrency price data using a public API.
 
 2.Focuses on analyzing and visualizing price trends over a selected time period.
